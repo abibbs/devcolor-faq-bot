@@ -18,7 +18,7 @@ I opted for a Web Interface so reviewers can demo and interact with the chatbot 
 - Tailwind CSS for styling
 
 ## Demo
-Try out the chatbot at https://devcolor-faq-bot.vercel.app.
+Try the chatbot online at https://devcolor-faq-bot.vercel.app.
 
 ## Example Outputs (Web GUI)
 ### "How can /dev/color help me develop my career?"
