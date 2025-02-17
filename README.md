@@ -23,9 +23,9 @@ Try the chatbot online at https://devcolor-faq-bot.vercel.app.
 ## Example Outputs (Web GUI)
 ### "How can /dev/color help me develop my career?"
 ![How can /dev/color help me develop my career?](https://raw.githubusercontent.com/abibbs/devcolor-faq-bot/refs/heads/main/images/screen1.png)
-### How can I contribute to /dev/color?
+### "How can I contribute to /dev/color?"
 ![How can I contribute to /dev/color?](https://raw.githubusercontent.com/abibbs/devcolor-faq-bot/refs/heads/main/images/screen2.png)
-### In which cities is /dev/color located?
+### "In which cities is /dev/color located?"
 ![In which cities is /dev/color located?](https://raw.githubusercontent.com/abibbs/devcolor-faq-bot/refs/heads/main/images/screen3.png)
 
 ## Getting Started
