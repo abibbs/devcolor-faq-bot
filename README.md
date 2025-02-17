@@ -2,6 +2,8 @@
 
 An AI-powered chatbot that answers Frequently Asked Questions about /dev/color using OpenAI's advanced language models and RAG (Retrieval Augmented Generation) technology.
 
+I opted for a Web Interface here so reviewers can demo and interact with the chatbot (see **Demo** section below).
+
 ## Key Features
 - AI-powered responses using OpenAI's language models
 - RAG implementation for accurate, context-aware answers
