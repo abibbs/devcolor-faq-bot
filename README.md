@@ -16,7 +16,7 @@ An AI-powered chatbot that answers Frequently Asked Questions about /dev/color u
 - Tailwind CSS for styling
 
 ## Demo
-Try out the chatbot at [[demo link placeholder](https://devcolor-faq-bot.vercel.app/)](https://devcolor-faq-bot.vercel.app/)
+Try out the chatbot at https://devcolor-faq-bot.vercel.app.
 
 ## Example Outputs (Web GUI)
 ### "How can /dev/color help me develop my career?"
