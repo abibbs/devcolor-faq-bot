@@ -16,11 +16,16 @@ An AI-powered chatbot that answers Frequently Asked Questions about /dev/color u
 - Tailwind CSS for styling
 
 ## Demo
-Try out the chatbot at [demo link placeholder]
+Try out the chatbot at [[demo link placeholder](https://devcolor-faq-bot.vercel.app/)](https://devcolor-faq-bot.vercel.app/)
 
-## Example Outputs
+## Example Outputs (Web GUI)
+### "How can /dev/color help me develop my career?"
 ![How can /dev/color help me develop my career?](https://i.ibb.co/cRP9Hnz/Screenshot-2025-02-16-at-11-32-37-PM.png)
+
+### How can I contribute to /dev/color?
 ![How can I contribute to /dev/color?](https://i.ibb.co/cR2qG69/Screenshot-2025-02-16-at-11-33-58-PM.png)
+
+### In which cities is /dev/color located?
 ![In which cities is /dev/color located?](https://i.ibb.co/d4wr0qkV/Screenshot-2025-02-16-at-11-35-42-PM.png)
 
 ## Getting Started
@@ -33,8 +38,8 @@ Try out the chatbot at [demo link placeholder]
 ### Installation
 ```bash
 # Clone the repository
-git clone [your-repo-url]
-cd [your-repo-name]
+git clone git@github.com:abibbs/devcolor-faq-bot.git
+cd devcolor-faq-bot
 
 # Install dependencies
 npm install
