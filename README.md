@@ -1,8 +1,8 @@
 # /dev/color FAQ Chatbot
 
-An AI-powered chatbot that answers Frequently Asked Questions about /dev/color using OpenAI's advanced language models and RAG (Retrieval Augmented Generation) technology.
+An AI-powered chatbot that answers Frequently Asked Questions about [/dev/color](https://devcolor.org/) using OpenAI's advanced language models and RAG (Retrieval Augmented Generation) technology.
 
-I opted for a Web Interface so reviewers can demo and interact with the chatbot (see [**Demo**](https://github.com/abibbs/devcolor-faq-bot/blob/main/README.md#demo) section below).
+I opted for a Web Interface so reviewers can demo and interact with the chatbot directly (see [**Demo**](https://github.com/abibbs/devcolor-faq-bot/blob/main/README.md#demo) section below).
 
 ## Key Features
 - AI-powered responses using OpenAI's language models
